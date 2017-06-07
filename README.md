@@ -35,6 +35,10 @@ for long file names.
 
 # TODO
 
+ - [ ] Actually check this package can be used.
+ - [ ] Improve the test suite.
+ - [ ] Add some benchmarks.
+ - [ ] Add Travis CI.
  - [ ] Add support for other variants.
  - [ ] Add a "artool" which allows you to test the ar commands for creation /
        extraction.
